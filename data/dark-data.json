@@ -1,36 +1,161 @@
 [
     {
         "payments": {
-            "captured": 46347,
-            "declined": 6806,
-            "voided": 481,
-            "chargeback": 828
+            "declined": 7595,
+            "voided": 198
         },
         "refunds": {
-            "captured": 8225,
-            "declined": 551
+            "declined": 2705
         },
-        "payouts": {
-            "captured": 13065,
-            "declined": 2996
-        },
-        "index": 0
+        "payouts": {},
+        "index": 3
     },
     {
         "payments": {
-            "captured": 28909,
-            "declined": 13935,
-            "voided": 394,
-            "chargeback": 50
+            "declined": 5754
         },
+        "refunds": {},
+        "payouts": {},
+        "index": 4
+    },
+    {
+        "payments": {
+            "declined": 9310
+        },
+        "refunds": {},
+        "payouts": {
+            "declined": 2960
+        },
+        "index": 6
+    },
+    {
+        "payments": {
+            "voided": 900
+        },
+        "refunds": {},
+        "payouts": {},
+        "index": 8
+    },
+    {
+        "payments": {},
         "refunds": {
-            "captured": 11569,
-            "declined": 3114
+            "declined": 4459
+        },
+        "payouts": {},
+        "index": 11
+    },
+    {
+        "payments": {
+            "chargeback": 509
+        },
+        "refunds": {},
+        "payouts": {},
+        "index": 13
+    },
+    {
+        "payments": {},
+        "refunds": {},
+        "payouts": {
+            "captured": 11670
+        },
+        "index": 16
+    },
+    {
+        "payments": {
+            "voided": 432
+        },
+        "refunds": {},
+        "payouts": {
+            "captured": 14331,
+            "declined": 3880
+        },
+        "index": 19
+    },
+    {
+        "payments": {},
+        "refunds": {},
+        "payouts": {},
+        "index": 21
+    },
+    {
+        "payments": {},
+        "refunds": {},
+        "payouts": {},
+        "index": 23
+    },
+    {
+        "payments": {},
+        "refunds": {
+            "declined": 2679
         },
         "payouts": {
-            "captured": 13751,
-            "declined": 1727
+            "captured": 5557
         },
-        "index": 1
+        "index": 25
+    },
+    {
+        "payments": {
+            "captured": 73071,
+            "voided": 928
+        },
+        "refunds": {
+            "declined": 4817
+        },
+        "payouts": {
+            "declined": 2001
+        },
+        "index": 27
+    },
+    {
+        "payments": {
+            "captured": 67890
+        },
+        "refunds": {
+            "captured": 4298,
+            "declined": 4766
+        },
+        "payouts": {},
+        "index": 28
+    },
+    {
+        "payments": {
+            "captured": 25394
+        },
+        "refunds": {},
+        "payouts": {
+            "declined": 269
+        },
+        "index": 29
+    },
+    {
+        "payments": {
+            "captured": 69392
+        },
+        "refunds": {
+            "captured": 19042
+        },
+        "payouts": {
+            "captured": 14370
+        },
+        "index": 30
+    },
+    {
+        "payments": {},
+        "refunds": {},
+        "payouts": {},
+        "index": 32
+    },
+    {
+        "payments": {
+            "declined": 9776,
+            "voided": 277,
+            "chargeback": 316
+        },
+        "refunds": {
+            "captured": 9177,
+            "declined": 3068
+        },
+        "payouts": {},
+        "index": 36
     }
 ]
