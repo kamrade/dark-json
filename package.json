@@ -1,0 +1,23 @@
+{
+  "name": "json-generator",
+  "version": "1.0.0",
+  "description": "Simple json generator based on options in dark-opt.js The result in ./data/dark-data.json Just prettify it :)",
+  "main": "dark-json.js",
+  "scripts": {
+    "test": "node dark-json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamrade/dark-json.git"
+  },
+  "keywords": [
+    "json",
+    "generator"
+  ],
+  "author": "Denis Michailov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamrade/dark-json/issues"
+  },
+  "homepage": "https://github.com/kamrade/dark-json#readme"
+}
