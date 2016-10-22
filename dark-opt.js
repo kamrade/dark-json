@@ -1,5 +1,5 @@
 module.exports = {
-	itemsCount: 12,
+	itemsCount: 24,
 
 	min: {
 		'payments':{
